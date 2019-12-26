@@ -1,6 +1,6 @@
 # mullvad_valid_vpn_servers
 
-This shell script will verify the detection status of mullvad openvpn servers.
+This shell script will verify the detection status of mullvad openvpn/wireguard servers.
 
 Output example found in serverstatus file
 
