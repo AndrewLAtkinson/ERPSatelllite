@@ -1,0 +1,3118 @@
+Start
+al-tia-001.mullvad.net
+{
+    "ip": "31.171.154.210",
+    "organization": "Keminet SHPK",
+    "asn": "AS197706",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}au-adl-001.mullvad.net
+{
+    "ip": "116.206.231.58",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-bne-001.mullvad.net
+{
+    "ip": "43.245.160.162",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-cbr-001.mullvad.net
+{
+    "ip": "116.206.229.98",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-mel-002.mullvad.net
+{
+    "ip": "116.206.228.202",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-mel-003.mullvad.net
+{
+    "ip": "116.206.228.242",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-mel-004.mullvad.net
+{
+    "ip": "116.206.230.98",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-per-001.mullvad.net
+{
+    "ip": "103.77.235.66",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}at-vie-001.mullvad.net
+{
+    "ip": "217.64.127.138",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}at-vie-002.mullvad.net
+{
+    "ip": "217.64.127.202",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}at-vie-003.mullvad.net
+{
+    "ip": "37.120.155.250",
+    "organization": "Secure Data Systems SRL",
+    "asn": "AS3210",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}be-bru-001.mullvad.net
+{
+    "ip": "185.104.186.202",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}be-bru-002.mullvad.net
+{
+    "ip": "91.207.57.50",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}be-bru-003.mullvad.net
+{
+    "ip": "37.120.143.138",
+    "organization": "Secure Data Systems SRL",
+    "asn": "AS3210",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}br-sao-001.mullvad.net
+{
+    "ip": "177.67.80.186",
+    "organization": "WIX NET DO BRASIL LTDA",
+    "asn": "AS53013",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}br-sao-002.mullvad.net
+{
+    "ip": "191.101.62.178",
+    "organization": "Digital Energy Technologies Chile SpA",
+    "asn": "AS61440",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}bg-sof-001.mullvad.net
+{
+    "ip": "185.94.192.42",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}bg-sof-002.mullvad.net
+{
+    "ip": "185.94.192.66",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-mtr-001.mullvad.net
+{
+    "ip": "87.101.92.138",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-mtr-002.mullvad.net
+{
+    "ip": "87.101.92.146",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-mtr-003.mullvad.net
+{
+    "ip": "176.113.74.186",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-mtr-004.mullvad.net
+{
+    "ip": "176.113.74.178",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-mtr-005.mullvad.net
+{
+    "ip": "139.28.218.114",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-mtr-006.mullvad.net
+{
+    "ip": "37.120.205.114",
+    "organization": "Secure Data Systems SRL",
+    "asn": "AS3210",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}ca-mtr-007.mullvad.net
+{
+    "ip": "37.120.205.122",
+    "organization": "Secure Data Systems SRL",
+    "asn": "AS3210",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}ca-tor-001.mullvad.net
+{
+    "ip": "184.75.214.130",
+    "organization": "Amanah Tech Inc.",
+    "asn": "AS32489",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-tor-002.mullvad.net
+{
+    "ip": "162.219.176.250",
+    "organization": "Amanah Tech Inc.",
+    "asn": "AS32489",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-van-001.mullvad.net
+{
+    "ip": "172.83.40.34",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-van-002.mullvad.net
+{
+    "ip": "172.83.40.38",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-van-003.mullvad.net
+{
+    "ip": "71.19.248.240",
+    "organization": "",
+    "asn": "eSecureData",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-van-004.mullvad.net
+{
+    "ip": "71.19.249.81",
+    "organization": "",
+    "asn": "eSecureData",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}cz-prg-001.mullvad.net
+{
+    "ip": "185.156.174.146",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}cz-prg-002.mullvad.net
+{
+    "ip": "185.156.174.170",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}cz-prg-003.mullvad.net
+{
+    "ip": "185.216.35.242",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}dk-cph-001.mullvad.net
+{
+    "ip": "141.98.254.71",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}dk-cph-002.mullvad.net
+{
+    "ip": "141.98.254.72",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}dk-cph-101.mullvad.net
+{
+    "ip": "185.206.224.114",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}dk-cph-102.mullvad.net
+{
+    "ip": "185.206.224.119",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}dk-cph-201.mullvad.net
+{
+    "ip": "134.90.149.138",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}dk-cph-301.mullvad.net
+{
+    "ip": "82.103.140.213",
+    "organization": "ASERGO Scandinavia ApS",
+    "asn": "AS30736",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}fi-hel-001.mullvad.net
+{
+    "ip": "185.204.1.171",
+    "organization": "Oy Crea Nova Hosting Solution Ltd",
+    "asn": "AS51765",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fi-hel-002.mullvad.net
+{
+    "ip": "185.204.1.172",
+    "organization": "Oy Crea Nova Hosting Solution Ltd",
+    "asn": "AS51765",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fi-hel-003.mullvad.net
+{
+    "ip": "185.204.1.173",
+    "organization": "Oy Crea Nova Hosting Solution Ltd",
+    "asn": "AS51765",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fi-hel-004.mullvad.net
+{
+    "ip": "185.204.1.174",
+    "organization": "Oy Crea Nova Hosting Solution Ltd",
+    "asn": "AS51765",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fi-hel-005.mullvad.net
+{
+    "ip": "185.204.1.175",
+    "organization": "Oy Crea Nova Hosting Solution Ltd",
+    "asn": "AS51765",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fi-hel-006.mullvad.net
+{
+    "ip": "185.204.1.176",
+    "organization": "Oy Crea Nova Hosting Solution Ltd",
+    "asn": "AS51765",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fi-hel-007.mullvad.net
+{
+    "ip": "185.212.149.201",
+    "organization": "Oy Crea Nova Hosting Solution Ltd",
+    "asn": "AS51765",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fr-par-001.mullvad.net
+{
+    "ip": "193.32.126.81",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}fr-par-002.mullvad.net
+{
+    "ip": "193.32.126.82",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}fr-par-003.mullvad.net
+{
+    "ip": "193.32.126.83",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}fr-par-004.mullvad.net
+{
+    "ip": "193.32.126.84",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}fr-par-101.mullvad.net
+{
+    "ip": "185.128.25.162",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fr-par-102.mullvad.net
+{
+    "ip": "185.156.173.218",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fr-par-103.mullvad.net
+{
+    "ip": "185.189.113.82",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-001.mullvad.net
+{
+    "ip": "185.213.155.131",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-002.mullvad.net
+{
+    "ip": "185.213.155.132",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-003.mullvad.net
+{
+    "ip": "185.213.155.133",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-004.mullvad.net
+{
+    "ip": "185.213.155.134",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-005.mullvad.net
+{
+    "ip": "185.213.155.135",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-006.mullvad.net
+{
+    "ip": "185.213.155.136",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-007.mullvad.net
+{
+    "ip": "185.213.155.137",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-008.mullvad.net
+{
+    "ip": "185.213.155.138",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-009.mullvad.net
+{
+    "ip": "185.213.155.139",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-010.mullvad.net
+{
+    "ip": "185.213.155.140",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-011.mullvad.net
+{
+    "ip": "185.213.155.141",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-012.mullvad.net
+{
+    "ip": "185.213.155.142",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-013.mullvad.net
+{
+    "ip": "185.213.155.143",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-014.mullvad.net
+{
+    "ip": "185.213.155.144",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-015.mullvad.net
+{
+    "ip": "185.213.155.145",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-101.mullvad.net
+{
+    "ip": "82.102.16.90",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-102.mullvad.net
+{
+    "ip": "185.104.184.186",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-103.mullvad.net
+{
+    "ip": "77.243.183.202",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gr-ath-001.mullvad.net
+{
+    "ip": "185.226.67.168",
+    "organization": "Asimia Damaskou",
+    "asn": "AS205053",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}hk-hkg-001.mullvad.net
+{
+    "ip": "209.58.184.146",
+    "organization": "Leaseweb Asia Pacific pte. ltd.",
+    "asn": "AS133752",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}hu-bud-001.mullvad.net
+{
+    "ip": "185.189.114.10",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}hu-bud-002.mullvad.net
+{
+    "ip": "185.94.190.138",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}in-pnq-002.mullvad.net
+{
+    "ip": "45.64.104.95",
+    "organization": "LeapSwitch Networks Pvt Ltd",
+    "asn": "AS132335",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}il-tlv-001.mullvad.net
+{
+    "ip": "185.191.207.210",
+    "organization": "Rachamim Aviel Twito trading as A.B INTERNET SOLUTIONS",
+    "asn": "AS35758",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}it-mil-001.mullvad.net
+{
+    "ip": "217.64.113.180",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}it-mil-002.mullvad.net
+{
+    "ip": "217.64.113.183",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}it-mil-003.mullvad.net
+{
+    "ip": "217.138.197.106",
+    "organization": "Venus Business Communications Limited",
+    "asn": "AS20952",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}it-mil-004.mullvad.net
+{
+    "ip": "217.138.197.98",
+    "organization": "Venus Business Communications Limited",
+    "asn": "AS20952",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}jp-tyo-002.mullvad.net
+{
+    "ip": "185.242.4.50",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}jp-tyo-003.mullvad.net
+{
+    "ip": "193.148.16.218",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}lv-rix-001.mullvad.net
+{
+    "ip": "31.170.22.2",
+    "organization": "Sia Nano IT",
+    "asn": "AS43513",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}lu-lux-001.mullvad.net
+{
+    "ip": "92.223.89.160",
+    "organization": "G-Core Labs S.A.",
+    "asn": "AS199524",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}md-kiv-001.mullvad.net
+{
+    "ip": "178.175.142.194",
+    "organization": "I.C.S. Trabia-Network S.R.L.",
+    "asn": "AS43289",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-002.mullvad.net
+{
+    "ip": "185.65.134.132",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-003.mullvad.net
+{
+    "ip": "185.65.134.133",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-004.mullvad.net
+{
+    "ip": "185.65.134.134",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-005.mullvad.net
+{
+    "ip": "185.65.134.135",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-006.mullvad.net
+{
+    "ip": "185.65.134.136",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-009.mullvad.net
+{
+    "ip": "185.65.134.139",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-010.mullvad.net
+{
+    "ip": "185.65.134.140",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-011.mullvad.net
+{
+    "ip": "185.65.134.141",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-012.mullvad.net
+{
+    "ip": "185.65.134.142",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-013.mullvad.net
+{
+    "ip": "185.65.134.143",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-014.mullvad.net
+{
+    "ip": "185.65.134.144",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-015.mullvad.net
+{
+    "ip": "185.65.134.145",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-016.mullvad.net
+{
+    "ip": "185.65.134.146",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-017.mullvad.net
+{
+    "ip": "185.65.134.147",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-018.mullvad.net
+{
+    "ip": "185.65.134.148",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nz-akl-001.mullvad.net
+{
+    "ip": "103.231.91.114",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}no-osl-001.mullvad.net
+{
+    "ip": "91.90.44.11",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}no-osl-002.mullvad.net
+{
+    "ip": "91.90.44.12",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}no-osl-003.mullvad.net
+{
+    "ip": "91.90.44.13",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}no-osl-004.mullvad.net
+{
+    "ip": "91.90.44.14",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}no-osl-005.mullvad.net
+{
+    "ip": "91.90.44.15",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}no-osl-006.mullvad.net
+{
+    "ip": "91.90.44.16",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}no-osl-007.mullvad.net
+{
+    "ip": "91.90.44.17",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}no-osl-008.mullvad.net
+{
+    "ip": "91.90.44.18",
+    "organization": "Blix Solutions AS",
+    "asn": "AS50304",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}pl-waw-001.mullvad.net
+{
+    "ip": "37.120.156.162",
+    "organization": "Secure Data Systems SRL",
+    "asn": "AS3210",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}pl-waw-002.mullvad.net
+{
+    "ip": "185.244.214.210",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}pl-waw-003.mullvad.net
+{
+    "ip": "185.244.214.215",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}pt-lis-001.mullvad.net
+{
+    "ip": "5.206.231.214",
+    "organization": "Dotsi, Unipessoal Lda.",
+    "asn": "AS49349",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ro-buh-001.mullvad.net
+{
+    "ip": "185.45.13.10",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ro-buh-002.mullvad.net
+{
+    "ip": "185.181.100.202",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}rs-beg-001.mullvad.net
+{
+    "ip": "141.98.103.50",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}rs-ini-001.mullvad.net
+{
+    "ip": "176.104.107.118",
+    "organization": "NINET Company Nis d.o.o.",
+    "asn": "AS198371",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}sg-sin-001.mullvad.net
+{
+    "ip": "185.128.24.50",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}sg-sin-002.mullvad.net
+{
+    "ip": "103.254.153.82",
+    "organization": "Leaseweb Asia Pacific pte. ltd.",
+    "asn": "AS59253",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}za-jnb-001.mullvad.net
+{
+    "ip": "192.230.45.146",
+    "organization": "Micfo, LLC.",
+    "asn": "AS53889",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}es-mad-001.mullvad.net
+{
+    "ip": "89.238.178.34",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}es-mad-002.mullvad.net
+{
+    "ip": "89.238.178.74",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}es-mad-003.mullvad.net
+{
+    "ip": "195.206.107.146",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-001.mullvad.net
+{
+    "ip": "185.213.154.131",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-002.mullvad.net
+{
+    "ip": "185.213.154.132",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-003.mullvad.net
+{
+    "ip": "185.213.154.133",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-004.mullvad.net
+{
+    "ip": "185.213.154.134",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-005.mullvad.net
+{
+    "ip": "185.213.154.135",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-006.mullvad.net
+{
+    "ip": "185.213.154.136",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-007.mullvad.net
+{
+    "ip": "185.213.154.137",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-008.mullvad.net
+{
+    "ip": "185.213.154.138",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-009.mullvad.net
+{
+    "ip": "185.213.154.139",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-010.mullvad.net
+{
+    "ip": "185.213.154.140",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-011.mullvad.net
+{
+    "ip": "185.213.154.171",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-got-012.mullvad.net
+{
+    "ip": "185.213.154.142",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-hel-001.mullvad.net
+{
+    "ip": "185.213.152.131",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-hel-002.mullvad.net
+{
+    "ip": "185.213.152.132",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-hel-003.mullvad.net
+{
+    "ip": "185.213.152.133",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-hel-004.mullvad.net
+{
+    "ip": "185.213.152.134",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-hel-007.mullvad.net
+{
+    "ip": "185.213.152.137",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-hel-008.mullvad.net
+{
+    "ip": "185.213.152.138",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-001.mullvad.net
+{
+    "ip": "193.138.218.131",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-003.mullvad.net
+{
+    "ip": "193.138.218.133",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-004.mullvad.net
+{
+    "ip": "193.138.218.134",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-005.mullvad.net
+{
+    "ip": "193.138.218.135",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-013.mullvad.net
+{
+    "ip": "141.98.255.83",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-014.mullvad.net
+{
+    "ip": "141.98.255.84",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-015.mullvad.net
+{
+    "ip": "141.98.255.85",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-017.mullvad.net
+{
+    "ip": "141.98.255.87",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-018.mullvad.net
+{
+    "ip": "141.98.255.88",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-019.mullvad.net
+{
+    "ip": "141.98.255.89",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-020.mullvad.net
+{
+    "ip": "141.98.255.90",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-021.mullvad.net
+{
+    "ip": "141.98.255.91",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-022.mullvad.net
+{
+    "ip": "141.98.255.92",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-mma-023.mullvad.net
+{
+    "ip": "141.98.255.93",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-001.mullvad.net
+{
+    "ip": "185.65.135.131",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-002.mullvad.net
+{
+    "ip": "185.65.135.132",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-003.mullvad.net
+{
+    "ip": "185.65.135.133",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-004.mullvad.net
+{
+    "ip": "185.65.135.134",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-005.mullvad.net
+{
+    "ip": "185.65.135.135",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-006.mullvad.net
+{
+    "ip": "185.65.135.136",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-007.mullvad.net
+{
+    "ip": "185.65.135.137",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-008.mullvad.net
+{
+    "ip": "185.65.135.138",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-009.mullvad.net
+{
+    "ip": "185.65.135.139",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-010.mullvad.net
+{
+    "ip": "185.65.135.140",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-011.mullvad.net
+{
+    "ip": "185.65.135.141",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-012.mullvad.net
+{
+    "ip": "185.65.135.142",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-013.mullvad.net
+{
+    "ip": "185.65.135.143",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-014.mullvad.net
+{
+    "ip": "185.65.135.144",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-015.mullvad.net
+{
+    "ip": "185.65.135.145",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-016.mullvad.net
+{
+    "ip": "185.65.135.146",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-017.mullvad.net
+{
+    "ip": "185.65.135.147",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-018.mullvad.net
+{
+    "ip": "185.65.135.148",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-019.mullvad.net
+{
+    "ip": "185.65.135.149",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-020.mullvad.net
+{
+    "ip": "185.65.135.150",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-021.mullvad.net
+{
+    "ip": "185.65.135.151",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-022.mullvad.net
+{
+    "ip": "185.65.135.152",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-023.mullvad.net
+{
+    "ip": "185.65.135.153",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-024.mullvad.net
+{
+    "ip": "185.65.135.154",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}se-sto-025.mullvad.net
+{
+    "ip": "185.65.135.155",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-001.mullvad.net
+{
+    "ip": "193.32.127.81",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}ch-zrh-002.mullvad.net
+{
+    "ip": "193.32.127.82",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}ch-zrh-003.mullvad.net
+{
+    "ip": "193.32.127.83",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}ch-zrh-004.mullvad.net
+{
+    "ip": "193.32.127.84",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}ch-zrh-101.mullvad.net
+{
+    "ip": "185.9.18.114",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-102.mullvad.net
+{
+    "ip": "185.183.104.82",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-103.mullvad.net
+{
+    "ip": "185.9.18.98",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-104.mullvad.net
+{
+    "ip": "185.212.170.50",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-105.mullvad.net
+{
+    "ip": "82.102.24.130",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-106.mullvad.net
+{
+    "ip": "82.102.24.186",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-108.mullvad.net
+{
+    "ip": "185.212.170.162",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-201.mullvad.net
+{
+    "ip": "179.43.128.170",
+    "organization": "Private Layer INC",
+    "asn": "AS51852",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ch-zrh-202.mullvad.net
+{
+    "ip": "81.17.20.34",
+    "organization": "Private Layer INC",
+    "asn": "AS51852",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-001.mullvad.net
+{
+    "ip": "141.98.252.131",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-002.mullvad.net
+{
+    "ip": "141.98.252.132",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-003.mullvad.net
+{
+    "ip": "141.98.252.133",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-004.mullvad.net
+{
+    "ip": "141.98.252.134",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-005.mullvad.net
+{
+    "ip": "141.98.252.135",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-006.mullvad.net
+{
+    "ip": "141.98.252.136",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-007.mullvad.net
+{
+    "ip": "141.98.252.137",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-008.mullvad.net
+{
+    "ip": "141.98.252.138",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-009.mullvad.net
+{
+    "ip": "141.98.252.139",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-010.mullvad.net
+{
+    "ip": "141.98.252.140",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-011.mullvad.net
+{
+    "ip": "141.98.252.141",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-012.mullvad.net
+{
+    "ip": "141.98.252.142",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-013.mullvad.net
+{
+    "ip": "141.98.252.143",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-014.mullvad.net
+{
+    "ip": "141.98.252.144",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-101.mullvad.net
+{
+    "ip": "185.16.85.148",
+    "organization": "Hydra Communications Ltd",
+    "asn": "AS25369",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-102.mullvad.net
+{
+    "ip": "185.16.85.151",
+    "organization": "Hydra Communications Ltd",
+    "asn": "AS25369",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-103.mullvad.net
+{
+    "ip": "185.16.85.154",
+    "organization": "Hydra Communications Ltd",
+    "asn": "AS25369",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-104.mullvad.net
+{
+    "ip": "185.16.85.170",
+    "organization": "Hydra Communications Ltd",
+    "asn": "AS25369",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-105.mullvad.net
+{
+    "ip": "185.16.85.54",
+    "organization": "Hydra Communications Ltd",
+    "asn": "AS25369",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-201.mullvad.net
+{
+    "ip": "185.200.118.105",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-202.mullvad.net
+{
+    "ip": "185.212.168.244",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-301.mullvad.net
+{
+    "ip": "88.202.183.100",
+    "organization": "UK-2 Limited",
+    "asn": "AS13213",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-mnc-001.mullvad.net
+{
+    "ip": "89.238.132.36",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-mnc-002.mullvad.net
+{
+    "ip": "89.238.183.60",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-mnc-003.mullvad.net
+{
+    "ip": "89.238.183.244",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-mnc-004.mullvad.net
+{
+    "ip": "217.151.98.68",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-mnc-005.mullvad.net
+{
+    "ip": "37.120.159.164",
+    "organization": "Secure Data Systems SRL",
+    "asn": "AS3210",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}us-atl-001.mullvad.net
+{
+    "ip": "208.84.153.142",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-atl-003.mullvad.net
+{
+    "ip": "107.152.108.62",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-001.mullvad.net
+{
+    "ip": "68.235.43.122",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-002.mullvad.net
+{
+    "ip": "68.235.43.10",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-003.mullvad.net
+{
+    "ip": "68.235.43.18",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-004.mullvad.net
+{
+    "ip": "68.235.43.26",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-005.mullvad.net
+{
+    "ip": "68.235.43.34",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-006.mullvad.net
+{
+    "ip": "68.235.43.42",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-007.mullvad.net
+{
+    "ip": "68.235.43.50",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-008.mullvad.net
+{
+    "ip": "68.235.43.58",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-009.mullvad.net
+{
+    "ip": "68.235.43.66",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-010.mullvad.net
+{
+    "ip": "68.235.43.74",
+    "organization": "tzulo, inc.",
+    "asn": "AS11878",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-chi-101.mullvad.net
+{
+    "ip": "104.129.31.26",
+    "organization": "QuadraNet Enterprises LLC",
+    "asn": "AS8100",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-dal-001.mullvad.net
+{
+    "ip": "96.44.145.18",
+    "organization": "QuadraNet Enterprises LLC",
+    "asn": "AS8100",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-dal-002.mullvad.net
+{
+    "ip": "96.44.147.130",
+    "organization": "QuadraNet Enterprises LLC",
+    "asn": "AS8100",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-dal-003.mullvad.net
+{
+    "ip": "104.200.142.50",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-dal-004.mullvad.net
+{
+    "ip": "107.152.102.106",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-001.mullvad.net
+{
+    "ip": "185.236.200.98",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-002.mullvad.net
+{
+    "ip": "185.236.200.90",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-003.mullvad.net
+{
+    "ip": "185.236.200.242",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-004.mullvad.net
+{
+    "ip": "104.238.143.58",
+    "organization": "Choopa, LLC",
+    "asn": "AS20473",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-005.mullvad.net
+{
+    "ip": "185.236.200.66",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-006.mullvad.net
+{
+    "ip": "185.236.200.71",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-007.mullvad.net
+{
+    "ip": "104.200.152.66",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-008.mullvad.net
+{
+    "ip": "107.181.168.130",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-009.mullvad.net
+{
+    "ip": "173.199.80.50",
+    "organization": "Choopa, LLC",
+    "asn": "AS20473",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-012.mullvad.net
+{
+    "ip": "82.102.31.50",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-lax-013.mullvad.net
+{
+    "ip": "45.83.89.162",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}us-lax-014.mullvad.net
+{
+    "ip": "185.230.126.146",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-mia-001.mullvad.net
+{
+    "ip": "193.37.252.130",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-mia-002.mullvad.net
+{
+    "ip": "172.98.76.114",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-mia-003.mullvad.net
+{
+    "ip": "193.37.252.138",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-mia-004.mullvad.net
+{
+    "ip": "193.37.252.154",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-mia-201.mullvad.net
+{
+    "ip": "45.62.60.2",
+    "organization": "Micfo, LLC.",
+    "asn": "AS53889",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-001.mullvad.net
+{
+    "ip": "185.232.22.66",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-002.mullvad.net
+{
+    "ip": "185.232.22.98",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-003.mullvad.net
+{
+    "ip": "193.148.18.250",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-004.mullvad.net
+{
+    "ip": "185.217.69.122",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-005.mullvad.net
+{
+    "ip": "185.232.22.10",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-006.mullvad.net
+{
+    "ip": "107.182.226.206",
+    "organization": "Hosting Services, Inc.",
+    "asn": "AS32780",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-007.mullvad.net
+{
+    "ip": "107.182.226.218",
+    "organization": "Hosting Services, Inc.",
+    "asn": "AS32780",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-008.mullvad.net
+{
+    "ip": "193.148.18.218",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-009.mullvad.net
+{
+    "ip": "193.148.18.226",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-010.mullvad.net
+{
+    "ip": "193.148.18.236",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-011.mullvad.net
+{
+    "ip": "87.101.95.106",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-012.mullvad.net
+{
+    "ip": "193.148.18.194",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-013.mullvad.net
+{
+    "ip": "87.101.95.98",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-014.mullvad.net
+{
+    "ip": "87.101.95.114",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-015.mullvad.net
+{
+    "ip": "87.101.95.122",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-016.mullvad.net
+{
+    "ip": "212.103.48.58",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-017.mullvad.net
+{
+    "ip": "212.103.48.226",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-nyc-018.mullvad.net
+{
+    "ip": "176.113.72.226",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-phx-004.mullvad.net
+{
+    "ip": "107.152.99.86",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-phx-005.mullvad.net
+{
+    "ip": "192.200.24.82",
+    "organization": "Micfo, LLC.",
+    "asn": "AS53889",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-phx-006.mullvad.net
+{
+    "ip": "192.200.24.83",
+    "organization": "Micfo, LLC.",
+    "asn": "AS53889",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-pil-001.mullvad.net
+{
+    "ip": "108.61.78.138",
+    "organization": "Choopa, LLC",
+    "asn": "AS20473",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-pil-002.mullvad.net
+{
+    "ip": "108.61.48.115",
+    "organization": "Choopa, LLC",
+    "asn": "AS20473",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-pil-003.mullvad.net
+{
+    "ip": "66.55.147.59",
+    "organization": "Choopa, LLC",
+    "asn": "AS20473",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-001.mullvad.net
+{
+    "ip": "209.95.56.171",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-002.mullvad.net
+{
+    "ip": "107.182.238.229",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-003.mullvad.net
+{
+    "ip": "107.182.235.233",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-004.mullvad.net
+{
+    "ip": "67.212.238.236",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-005.mullvad.net
+{
+    "ip": "67.212.238.237",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-006.mullvad.net
+{
+    "ip": "67.212.238.239",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-007.mullvad.net
+{
+    "ip": "107.182.239.185",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-008.mullvad.net
+{
+    "ip": "107.182.233.172",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-slc-009.mullvad.net
+{
+    "ip": "107.182.239.170",
+    "organization": "WestHost, Inc.",
+    "asn": "AS29854",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-sfo-001.mullvad.net
+{
+    "ip": "209.209.238.34",
+    "organization": "Contina",
+    "asn": "AS63008",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-sfo-002.mullvad.net
+{
+    "ip": "209.209.238.35",
+    "organization": "Contina",
+    "asn": "AS63008",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-sea-001.mullvad.net
+{
+    "ip": "104.200.129.202",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-sea-002.mullvad.net
+{
+    "ip": "104.200.129.150",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-sea-003.mullvad.net
+{
+    "ip": "104.200.129.110",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-sea-004.mullvad.net
+{
+    "ip": "104.200.129.42",
+    "organization": "Total Server Solutions L.L.C.",
+    "asn": "AS46562",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-sea-101.mullvad.net
+{
+    "ip": "104.128.136.146",
+    "organization": "Contina",
+    "asn": "AS63008",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-uyk-001.mullvad.net
+{
+    "ip": "23.226.131.130",
+    "organization": "QuadraNet Enterprises LLC",
+    "asn": "AS8100",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}us-uyk-002.mullvad.net
+{
+    "ip": "23.226.131.154",
+    "organization": "QuadraNet Enterprises LLC",
+    "asn": "AS8100",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}Start
+al-tia-001.mullvad.net
+au-adl-001.mullvad.net
+au-bne-001.mullvad.net
+au-cbr-001.mullvad.net
+{
+    "ip": "116.206.229.98",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-mel-002.mullvad.net
+{
+    "ip": "116.206.228.202",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-mel-003.mullvad.net
+{
+    "ip": "116.206.228.242",
+    "organization": "Intergrid Group Pty Ltd",
+    "asn": "AS133480",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}au-mel-004.mullvad.net
+au-per-001.mullvad.net
+at-vie-001.mullvad.net
+at-vie-002.mullvad.net
+at-vie-003.mullvad.net
+be-bru-001.mullvad.net
+be-bru-002.mullvad.net
+be-bru-003.mullvad.net
+br-sao-001.mullvad.net
+br-sao-002.mullvad.net
+bg-sof-001.mullvad.net
+bg-sof-002.mullvad.net
+ca-mtr-001.mullvad.net
+ca-mtr-002.mullvad.net
+ca-mtr-003.mullvad.net
+ca-mtr-004.mullvad.net
+ca-mtr-005.mullvad.net
+ca-mtr-006.mullvad.net
+{
+    "ip": "37.120.205.114",
+    "organization": "Secure Data Systems SRL",
+    "asn": "AS3210",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}ca-mtr-007.mullvad.net
+ca-tor-001.mullvad.net
+ca-tor-002.mullvad.net
+ca-van-001.mullvad.net
+ca-van-002.mullvad.net
+ca-van-003.mullvad.net
+{
+    "ip": "71.19.248.240",
+    "organization": "",
+    "asn": "eSecureData",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}ca-van-004.mullvad.net
+{
+    "ip": "71.19.249.81",
+    "organization": "",
+    "asn": "eSecureData",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}cz-prg-001.mullvad.net
+cz-prg-002.mullvad.net
+cz-prg-003.mullvad.net
+dk-cph-001.mullvad.net
+dk-cph-002.mullvad.net
+dk-cph-101.mullvad.net
+dk-cph-102.mullvad.net
+{
+    "ip": "185.206.224.119",
+    "organization": "M247 Ltd",
+    "asn": "AS9009",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}dk-cph-201.mullvad.net
+dk-cph-301.mullvad.net
+fi-hel-001.mullvad.net
+fi-hel-002.mullvad.net
+{
+    "ip": "185.204.1.172",
+    "organization": "Oy Crea Nova Hosting Solution Ltd",
+    "asn": "AS51765",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}fi-hel-003.mullvad.net
+fi-hel-004.mullvad.net
+fi-hel-005.mullvad.net
+fi-hel-006.mullvad.net
+fi-hel-007.mullvad.net
+fr-par-001.mullvad.net
+{
+    "ip": "193.32.126.81",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}fr-par-002.mullvad.net
+fr-par-003.mullvad.net
+{
+    "ip": "193.32.126.83",
+    "organization": "AS",
+    "asn": null,
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}fr-par-004.mullvad.net
+fr-par-101.mullvad.net
+fr-par-102.mullvad.net
+fr-par-103.mullvad.net
+de-fra-001.mullvad.net
+{
+    "ip": "185.213.155.131",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-002.mullvad.net
+de-fra-003.mullvad.net
+de-fra-004.mullvad.net
+de-fra-005.mullvad.net
+de-fra-006.mullvad.net
+de-fra-007.mullvad.net
+de-fra-008.mullvad.net
+de-fra-009.mullvad.net
+de-fra-010.mullvad.net
+de-fra-011.mullvad.net
+de-fra-012.mullvad.net
+de-fra-013.mullvad.net
+de-fra-014.mullvad.net
+{
+    "ip": "185.213.155.144",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}de-fra-015.mullvad.net
+de-fra-101.mullvad.net
+de-fra-102.mullvad.net
+de-fra-103.mullvad.net
+gr-ath-001.mullvad.net
+hk-hkg-001.mullvad.net
+hu-bud-001.mullvad.net
+hu-bud-002.mullvad.net
+in-pnq-002.mullvad.net
+{
+    "ip": "45.64.104.95",
+    "organization": "LeapSwitch Networks Pvt Ltd",
+    "asn": "AS132335",
+    "type": "isp",
+    "risk": "low",
+    "is_hosting": 0,
+    "vpn_or_proxy": "no"
+}il-tlv-001.mullvad.net
+it-mil-001.mullvad.net
+it-mil-002.mullvad.net
+it-mil-003.mullvad.net
+it-mil-004.mullvad.net
+jp-tyo-002.mullvad.net
+jp-tyo-003.mullvad.net
+lv-rix-001.mullvad.net
+lu-lux-001.mullvad.net
+md-kiv-001.mullvad.net
+nl-ams-002.mullvad.net
+{
+    "ip": "185.65.134.132",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-003.mullvad.net
+nl-ams-004.mullvad.net
+nl-ams-005.mullvad.net
+nl-ams-006.mullvad.net
+nl-ams-009.mullvad.net
+nl-ams-010.mullvad.net
+nl-ams-011.mullvad.net
+nl-ams-012.mullvad.net
+nl-ams-013.mullvad.net
+nl-ams-014.mullvad.net
+{
+    "ip": "185.65.134.144",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}nl-ams-015.mullvad.net
+nl-ams-016.mullvad.net
+nl-ams-017.mullvad.net
+nl-ams-018.mullvad.net
+nz-akl-001.mullvad.net
+no-osl-001.mullvad.net
+no-osl-002.mullvad.net
+no-osl-003.mullvad.net
+no-osl-004.mullvad.net
+no-osl-005.mullvad.net
+no-osl-006.mullvad.net
+no-osl-007.mullvad.net
+no-osl-008.mullvad.net
+pl-waw-001.mullvad.net
+pl-waw-002.mullvad.net
+pl-waw-003.mullvad.net
+pt-lis-001.mullvad.net
+ro-buh-001.mullvad.net
+ro-buh-002.mullvad.net
+rs-beg-001.mullvad.net
+rs-ini-001.mullvad.net
+sg-sin-001.mullvad.net
+sg-sin-002.mullvad.net
+za-jnb-001.mullvad.net
+es-mad-001.mullvad.net
+es-mad-002.mullvad.net
+es-mad-003.mullvad.net
+se-got-001.mullvad.net
+se-got-002.mullvad.net
+se-got-003.mullvad.net
+se-got-004.mullvad.net
+se-got-005.mullvad.net
+se-got-006.mullvad.net
+se-got-007.mullvad.net
+se-got-008.mullvad.net
+se-got-009.mullvad.net
+se-got-010.mullvad.net
+se-got-011.mullvad.net
+se-got-012.mullvad.net
+se-hel-001.mullvad.net
+se-hel-002.mullvad.net
+se-hel-003.mullvad.net
+se-hel-004.mullvad.net
+se-hel-007.mullvad.net
+se-hel-008.mullvad.net
+se-mma-001.mullvad.net
+se-mma-003.mullvad.net
+se-mma-004.mullvad.net
+se-mma-005.mullvad.net
+se-mma-013.mullvad.net
+se-mma-014.mullvad.net
+se-mma-015.mullvad.net
+se-mma-017.mullvad.net
+se-mma-018.mullvad.net
+se-mma-019.mullvad.net
+se-mma-020.mullvad.net
+se-mma-021.mullvad.net
+se-mma-022.mullvad.net
+se-mma-023.mullvad.net
+se-sto-001.mullvad.net
+se-sto-002.mullvad.net
+se-sto-003.mullvad.net
+se-sto-004.mullvad.net
+se-sto-005.mullvad.net
+se-sto-006.mullvad.net
+se-sto-007.mullvad.net
+se-sto-008.mullvad.net
+se-sto-009.mullvad.net
+se-sto-010.mullvad.net
+se-sto-011.mullvad.net
+se-sto-012.mullvad.net
+se-sto-013.mullvad.net
+se-sto-014.mullvad.net
+se-sto-015.mullvad.net
+se-sto-016.mullvad.net
+se-sto-017.mullvad.net
+se-sto-018.mullvad.net
+se-sto-019.mullvad.net
+se-sto-020.mullvad.net
+se-sto-021.mullvad.net
+se-sto-022.mullvad.net
+se-sto-023.mullvad.net
+se-sto-024.mullvad.net
+se-sto-025.mullvad.net
+ch-zrh-001.mullvad.net
+ch-zrh-002.mullvad.net
+ch-zrh-003.mullvad.net
+ch-zrh-004.mullvad.net
+ch-zrh-101.mullvad.net
+ch-zrh-102.mullvad.net
+ch-zrh-103.mullvad.net
+ch-zrh-104.mullvad.net
+ch-zrh-105.mullvad.net
+ch-zrh-106.mullvad.net
+ch-zrh-108.mullvad.net
+ch-zrh-201.mullvad.net
+ch-zrh-202.mullvad.net
+gb-lon-001.mullvad.net
+gb-lon-002.mullvad.net
+gb-lon-003.mullvad.net
+gb-lon-004.mullvad.net
+gb-lon-005.mullvad.net
+gb-lon-006.mullvad.net
+gb-lon-007.mullvad.net
+{
+    "ip": "141.98.252.137",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-008.mullvad.net
+gb-lon-009.mullvad.net
+gb-lon-010.mullvad.net
+gb-lon-011.mullvad.net
+gb-lon-012.mullvad.net
+gb-lon-013.mullvad.net
+gb-lon-014.mullvad.net
+{
+    "ip": "141.98.252.144",
+    "organization": "31173 Services AB",
+    "asn": "AS39351",
+    "type": "Hosting\/Datacenter",
+    "risk": "high",
+    "is_hosting": "1",
+    "vpn_or_proxy": "yes"
+}gb-lon-101.mullvad.net
+gb-lon-102.mullvad.net
+gb-lon-103.mullvad.net
+gb-lon-104.mullvad.net
+gb-lon-105.mullvad.net
+gb-lon-201.mullvad.net
+gb-lon-202.mullvad.net
+gb-lon-301.mullvad.net
+gb-mnc-001.mullvad.net
+gb-mnc-002.mullvad.net
+gb-mnc-003.mullvad.net
+gb-mnc-004.mullvad.net
+gb-mnc-005.mullvad.net
+us-atl-001.mullvad.net
+us-atl-003.mullvad.net
+us-chi-001.mullvad.net
+us-chi-002.mullvad.net
+us-chi-003.mullvad.net
+us-chi-004.mullvad.net
+us-chi-005.mullvad.net
+us-chi-006.mullvad.net
+us-chi-007.mullvad.net
+us-chi-008.mullvad.net
+us-chi-009.mullvad.net
+us-chi-010.mullvad.net
+us-chi-101.mullvad.net
+us-dal-001.mullvad.net
+us-dal-002.mullvad.net
+us-dal-003.mullvad.net
+us-dal-004.mullvad.net
+us-lax-001.mullvad.net
+us-lax-002.mullvad.net
+us-lax-003.mullvad.net
+us-lax-004.mullvad.net
+us-lax-005.mullvad.net
+us-lax-006.mullvad.net
+us-lax-007.mullvad.net
+us-lax-008.mullvad.net
+us-lax-009.mullvad.net
+us-lax-012.mullvad.net
+us-lax-013.mullvad.net
+us-lax-014.mullvad.net
+us-mia-001.mullvad.net
+us-mia-002.mullvad.net
+us-mia-003.mullvad.net
+us-mia-004.mullvad.net
+us-mia-201.mullvad.net
+us-nyc-001.mullvad.net
+us-nyc-002.mullvad.net
+us-nyc-003.mullvad.net
+us-nyc-004.mullvad.net
+us-nyc-005.mullvad.net
+us-nyc-006.mullvad.net
+us-nyc-007.mullvad.net
+us-nyc-008.mullvad.net
+us-nyc-009.mullvad.net
+us-nyc-010.mullvad.net
+us-nyc-011.mullvad.net
+us-nyc-012.mullvad.net
+us-nyc-013.mullvad.net
+us-nyc-014.mullvad.net
+us-nyc-015.mullvad.net
+us-nyc-016.mullvad.net
+us-nyc-017.mullvad.net
+us-nyc-018.mullvad.net
+us-phx-004.mullvad.net
+us-phx-005.mullvad.net
+us-phx-006.mullvad.net
+us-pil-001.mullvad.net
+us-pil-002.mullvad.net
+us-pil-003.mullvad.net
+us-slc-001.mullvad.net
+us-slc-002.mullvad.net
+us-slc-003.mullvad.net
+us-slc-004.mullvad.net
+us-slc-005.mullvad.net
+us-slc-006.mullvad.net
+us-slc-007.mullvad.net
+us-slc-008.mullvad.net
+us-slc-009.mullvad.net
+us-sfo-001.mullvad.net
+us-sfo-002.mullvad.net
+us-sea-001.mullvad.net
+us-sea-002.mullvad.net
+us-sea-003.mullvad.net
+us-sea-004.mullvad.net
+us-sea-101.mullvad.net
+us-uyk-001.mullvad.net
+us-uyk-002.mullvad.net
