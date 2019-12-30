@@ -10,4 +10,4 @@ $ ./getvalid.sh >> serverstatus
 
 to list undetected servers :
 
-$ cat serverstatus | grep -B 10 no
+$ cat serverstatus | grep -B 8 '"no"'
