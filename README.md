@@ -7,3 +7,7 @@ Output example found in serverstatus file
 to run :
 
 $ ./getvalid.sh >> serverstatus
+
+to list undetected servers :
+
+$ cat serverstatus | grep -B 10 no
